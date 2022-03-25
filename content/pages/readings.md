@@ -4,7 +4,7 @@ title: Readings
 uid: f4255097-d4c2-df47-5992-f78e2e1771b4
 ---
 
-Alford, William. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China" (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)_._ Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University. (August 2000.)
+Alford, William. ["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China" (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf)_._ Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University. (August 2000.)
 
 Amsden, Alice. _Asia's Next Giant._ New York: Oxford Univ. Press, 1989, Chap. 1 (pp. 3-23).
 

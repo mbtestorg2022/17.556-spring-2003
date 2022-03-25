@@ -25,4 +25,4 @@ Boycko, Maxim, Andrei Shleifer, and Robert Vishny. _Privatizing Russia._ Cambri
 Stiglitz, Joseph E. ["Redefining the Role of the State.](https://www.semanticscholar.org/paper/Redefining-the-Role-of-the-State-Snowdon-Stiglitz/6b425a68c5eb04aaaceecae3ff58ac4a5e066412)" Paper presented on the Tenth Anniversary of MITI Research Center, (March 1998).
 
 Stiglitz, Joseph E. "Wither Reform? Ten Years of Transition." Paper prepared for World Bank Annual Conference on Development Economics, Washington D.C. (April 1999).  
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[http://www.worldbank.org/research/abcde/washington\_11/pdfs/stiglitz.pdf](http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf)
+[http://www.worldbank.org/research/abcde/washington\_11/pdfs/stiglitz.pdf](http://www.worldbank.org/research/abcde/washington_11/pdfs/stiglitz.pdf)

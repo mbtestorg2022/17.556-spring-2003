@@ -134,7 +134,7 @@ Hernando, de Soto. The Mystery of Capital: Why Capitalism Triumphs in the West a
 
 La Porta, Rafael,  Florencio Lopez-de-Silanes, Andrei Shleifer, and Robert W. Vishny. "Law and Finance." _Journal of Political Economy_, vol. 106, no. 6 (December 1998): 1113-1155.
 
-Alford, William. ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China". (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf) Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University, August 2000.
+Alford, William. ["The More Law, the More . . .? Measuring Legal Reform in the People's Republic of China". (PDF)](http://web.stanford.edu/group/siepr/cgi-bin/siepr/?q=system/files/shared/pubs/papers/pdf/credpr59.pdf) Center for Research on Economic Development and Policy Reform: Working Paper no. 59, Stanford University, August 2000.
 
 
 {{< tdclose >}}
